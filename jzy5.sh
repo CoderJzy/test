@@ -1,1 +1,1 @@
-bash jzy4.sh
+sh test/jzy4.sh
